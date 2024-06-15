@@ -1,6 +1,3 @@
-Tentu! Berikut adalah contoh `README.md` untuk aplikasi Guestbook yang Anda buat menggunakan Node.js, PostgreSQL, dan React:
-
-```markdown
 # Guestbook App
 
 Guestbook App adalah sebuah aplikasi sederhana untuk mencatat dan menampilkan pesan dari pengunjung. Aplikasi ini dibangun menggunakan Node.js untuk backend, PostgreSQL sebagai database, dan React untuk frontend.
